@@ -5,7 +5,7 @@
 
 <link rel="shortcut icon" href="{Favicon}">
 <link rel="alternate" type="application/rss+xml" href="{RSS}">
-<link rel="stylesheet" href="https://cdn.discordapp.com/attachments/1135431736671600700/1135614704648200303/navone.css" type="text/css">
+<link rel="stylesheet" href="https://cdn.discordapp.com/attachments/1135431736671600700/1135847425257525258/navone.css" type="text/css">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
@@ -24,7 +24,7 @@
 :root {
                                 --background-color: #292c2e;
                                 --background-image: url("https://images.unsplash.com/photo-1536514498073-50e69d39c6cf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1742&q=80");
-                                --background-blur-amount: blur(2px);
+                                --background-blur-amount: blur(5px);
                                 --grayscale: grayscale(13%);
                                 --container-color: #6d7073;
                                 --container-opacity: 70%;
@@ -71,10 +71,11 @@ HOW TO CHANGE YOUR FONTS:
                         'Poiret One', serif;
                         'Source Serif', serif;
 
- NEED A MORE IN DEPTH TUTORIAL? FIND ALL OF MY THEME TUTORIALS ON MY DISCORD: https://discord.gg/wxYkRpA5kv
+NEED A MORE IN DEPTH TUTORIAL? FIND ALL OF MY THEME TUTORIALS ON MY DISCORD: https://discord.gg/wxYkRpA5kv
  
  WANT MORE CUSTOMIZATION? EDIT THE FULL CSS TO YOUR LIKING HERE: 
-
+https://raw.githubusercontent.com/rome-io/themes/free/Page%3A%20Navigation%20I%20-%20Pirr%20-%20CSS
+                    **DON'T FORGET TO EXTERNALLY LINK YOUR FINISHED CSS AT THE TOP
 
 */
 
@@ -91,20 +92,34 @@ HOW TO CHANGE YOUR FONTS:
     <div class="topnav"><a href="https://twitter.com/">X</a></div>
     <div class="topnav"><a href="https://www.youtube.com/channel/">Youtube</a></div>
 </div><div class="container1">
-
-
-
-<div class="section">
-    <div class="cat">category</div>
+    <div class="section">
+    <div class="cat">living force</div>
         <div class="container2">
         <div class="link">
         <ul>
-            <li><a href="LINK"> link one</a></li>
-            <li><a href="LINK"> link two</a></li>
-            <li><a href="LINK"> link three</a></li>
-            <li><a href="LINK"> link four</a></li>
-            <li><a href="LINK"> link five</a></li>
-            <li><a href="LINK"> link six</a></li>
+            <li><a href="LINK"> Lorem Ipsum</a></li>
+            <li><a href="LINK"> dolor sit amet</a></li>
+            <li><a href="LINK"> magna aliqua</a></li>
+            <li><a href="LINK"> labore et dolore</a></li>
+            <li><a href="LINK"> enim ad minim</a></li>
+            <li><a href="LINK"> nostrud exercitation</a></li>
+        </ul>
+        </div>
+        </div>
+    </div>
+
+
+<div class="section">
+    <div class="cat">visvivacodes</div>
+        <div class="container2">
+        <div class="link">
+        <ul>
+            <li><a href="LINK"> commodo consequat</a></li>
+            <li><a href="LINK"> reprehenderit</a></li>
+            <li><a href="LINK"> sint occaecat</a></li>
+            <li><a href="LINK"> cupidatat non</a></li>
+            <li><a href="LINK"> Excepteur sint</a></li>
+            <li><a href="LINK"> anim id est</a></li>
         </ul>
         </div>
         </div>
@@ -113,39 +128,22 @@ HOW TO CHANGE YOUR FONTS:
 
 
 <div class="section">
-    <div class="cat">category</div>
+    <div class="cat">eudemonia</div>
         <div class="container2">
         <div class="link">
         <ul>
-            <li><a href="LINK"> link one</a></li>
-            <li><a href="LINK"> link two</a></li>
-            <li><a href="LINK"> link three</a></li>
-            <li><a href="LINK"> link four</a></li>
-            <li><a href="LINK"> link five</a></li>
-            <li><a href="LINK"> link six</a></li>
+            <li><a href="LINK"> commodo consequat</a></li>
+            <li><a href="LINK"> reprehenderit</a></li>
+            <li><a href="LINK"> sint occaecat</a></li>
+            <li><a href="LINK"> cupidatat non</a></li>
+            <li><a href="LINK"> Excepteur sint</a></li>
+            <li><a href="LINK"> anim id est</a></li>
+
         </ul>
         </div>
         </div>
     </div>
 
-
-
-<div class="section">
-    <div class="cat">category</div>
-        <div class="container2">
-        <div class="link">
-        <ul>
-            <li><a href="LINK"> link one</a></li>
-            <li><a href="LINK"> link two</a></li>
-            <li><a href="LINK"> link three</a></li>
-            <li><a href="LINK"> link four</a></li>
-            <li><a href="LINK"> link five</a></li>
-            <li><a href="LINK"> link six</a></li>
-        </ul>
-        </div>
-        </div>
-    </div>
-    </div>
 
 
 
