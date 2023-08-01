@@ -89,7 +89,7 @@ img {
 
 .topnav a {
     display: inherit;
-    color: var(--font-color);
+    color: var(--toplink-color);
     text-align: center;
     padding: 2rem;
     text-transform: uppercase;
@@ -233,7 +233,7 @@ img {
     border-block-start: 1px solid var(--borders-color);
     color: var(--title-color);
     z-index: 2;
-        transition: 0.3s ease-in;
+    transition: 0.3s ease-in;
     -moz-transition: all 0.5s ease-in;
     -ms-transform: scale(1);
     -webkit-transform: scale(1);
