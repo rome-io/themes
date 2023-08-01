@@ -35,7 +35,7 @@
                                 --font-color: black;
                                 --link-color: #d5d9db;
                                 --link-hover-color: #a58954;
-								                --toplink-color: black;
+				--toplink-color: black;
                                 --category-case: lowercase;
                                 --category-font-size: 13px;
                                 --links-alignment: center;
