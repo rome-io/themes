@@ -5,7 +5,7 @@
 
 <link rel="shortcut icon" href="{Favicon}">
 <link rel="alternate" type="application/rss+xml" href="{RSS}">
-<link rel="stylesheet" href="https://cdn.discordapp.com/attachments/1135431736671600700/1135847425257525258/navone.css" type="text/css">
+<link rel="stylesheet" href="https://cdn.discordapp.com/attachments/1135868280234582046/1135868327496003584/navone.css" type="text/css">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
@@ -35,6 +35,7 @@
                                 --font-color: black;
                                 --link-color: #d5d9db;
                                 --link-hover-color: #a58954;
+								                --toplink-color: black;
                                 --category-case: lowercase;
                                 --category-font-size: 13px;
                                 --links-alignment: center;
